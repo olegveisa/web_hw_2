@@ -1,0 +1,5 @@
+[22:54:51] Addressbook has been loaded!
+[22:55:33] Contact oleg has been added.
+[22:55:33] Addressbook has been saved!
+[22:57:33] Addressbook has been loaded!
+[23:19:39] Addressbook has been loaded!
